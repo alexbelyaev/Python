@@ -1,0 +1,1 @@
+cmd /k "venv\Scripts\activate.bat & convert.py & exit"
